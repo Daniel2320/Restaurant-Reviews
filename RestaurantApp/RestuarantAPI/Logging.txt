@@ -1,0 +1,11 @@
+﻿2022-05-17 10:39:26.520 -05:00 [INF] Restaurant get all
+2022-05-17 10:39:40.065 -05:00 [INF] Review seached
+2022-05-17 10:39:40.747 -05:00 [INF] Review seached
+2022-05-17 10:39:41.768 -05:00 [INF] Review seached
+2022-05-17 10:39:42.441 -05:00 [INF] Review seached
+2022-05-17 11:17:00.402 -05:00 [INF] get token
+2022-05-17 11:17:00.521 -05:00 [INF] Token Created
+2022-05-17 11:17:13.331 -05:00 [INF] User get user
+2022-05-17 13:18:04.698 -05:00 [INF] Restaurant get all
+2022-05-17 13:18:08.950 -05:00 [INF] Get Average Rating
+2022-05-17 13:31:22.537 -05:00 [INF] Review added

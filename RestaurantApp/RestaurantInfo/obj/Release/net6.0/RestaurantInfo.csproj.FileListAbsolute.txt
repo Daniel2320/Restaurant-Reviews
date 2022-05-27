@@ -1,0 +1,12 @@
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\bin\Release\net6.0\RestaurantInfo.deps.json
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\bin\Release\net6.0\RestaurantInfo.dll
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\bin\Release\net6.0\RestaurantInfo.pdb
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.csproj.AssemblyReference.cache
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.AssemblyInfoInputs.cache
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.AssemblyInfo.cs
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.csproj.CoreCompileInputs.cache
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.dll
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\refint\RestaurantInfo.dll
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\RestaurantInfo.pdb
+C:\Revature\dotnet-training-220328\Daniel-Oszczapinski\Project 1\RestaurantApp\RestaurantInfo\obj\Release\net6.0\ref\RestaurantInfo.dll

@@ -1,0 +1,2458 @@
+{
+  "RestaurantBL.dll": {
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantBL\\OperationsBL.cs": {
+      "RestaurantBL.OperationsBL": {
+        "System.Collections.Generic.List`1<RestaurantInfo.Restaurant> RestaurantBL.OperationsBL::GetAllRestaurants()": {
+          "Lines": {
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 62,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantBL.OperationsBL::GetAllReviews()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 73,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.User> RestaurantBL.OperationsBL::GetUser()": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "70": 0
+          },
+          "Branches": [
+            {
+              "Line": 63,
+              "Offset": 62,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestaurantBL.OperationsBL::.cctor()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "RestaurantDL.dll": {
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantDL\\Repository.cs": {
+      "RestaurantDL.Repository": {
+        "RestaurantInfo.Restaurant RestaurantDL.Repository::AddRestaurant(RestaurantInfo.Restaurant)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Restaurant> RestaurantDL.Repository::GetRestaurantInfo()": {
+          "Lines": {
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 61,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 119,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean RestaurantDL.Repository::IsDuplicate(RestaurantInfo.Restaurant)": {
+          "Lines": {
+            "72": 0,
+            "73": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Restaurant> RestaurantDL.Repository::SearchRestaurants(System.String)": {
+          "Lines": {
+            "77": 0,
+            "78": 0
+          },
+          "Branches": []
+        },
+        "RestaurantInfo.Review RestaurantDL.Repository::AddReview(RestaurantInfo.Review)": {
+          "Lines": {
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantDL.Repository::GetReviewInfo()": {
+          "Lines": {
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "128": 0,
+            "129": 0,
+            "131": 0
+          },
+          "Branches": [
+            {
+              "Line": 123,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 119,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "RestaurantInfo.User RestaurantDL.Repository::AddUser(RestaurantInfo.User)": {
+          "Lines": {
+            "134": 0,
+            "135": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantDL.Repository::.ctor()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantDL\\SqlRepository.cs": {
+      "RestaurantDL.SqlRepository": {
+        "RestaurantInfo.Restaurant RestaurantDL.SqlRepository::AddRestaurant(RestaurantInfo.Restaurant)": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        },
+        "RestaurantInfo.Review RestaurantDL.SqlRepository::AddReview(RestaurantInfo.Review)": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0
+          },
+          "Branches": []
+        },
+        "RestaurantInfo.User RestaurantDL.SqlRepository::AddUser(RestaurantInfo.User)": {
+          "Lines": {
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Restaurant> RestaurantDL.SqlRepository::GetRestaurantInfo()": {
+          "Lines": {
+            "91": 0,
+            "92": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0
+          },
+          "Branches": [
+            {
+              "Line": 102,
+              "Offset": 145,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 102,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantDL.SqlRepository::GetAverage()": {
+          "Lines": {
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "127": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0
+          },
+          "Branches": [
+            {
+              "Line": 129,
+              "Offset": 89,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 89,
+              "EndOffset": 91,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantDL.SqlRepository::GetReviewInfo()": {
+          "Lines": {
+            "145": 0,
+            "146": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "154": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0
+          },
+          "Branches": [
+            {
+              "Line": 156,
+              "Offset": 145,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 156,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.User> RestaurantDL.SqlRepository::GetUsersInfo()": {
+          "Lines": {
+            "174": 0,
+            "175": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "183": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0
+          },
+          "Branches": [
+            {
+              "Line": 185,
+              "Offset": 117,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 117,
+              "EndOffset": 119,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantDL.SqlRepository::SearchRestaurants(System.String)": {
+          "Lines": {
+            "204": 0,
+            "205": 0,
+            "206": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean RestaurantDL.SqlRepository::IsDuplicate(RestaurantInfo.Restaurant)": {
+          "Lines": {
+            "215": 0,
+            "216": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantDL.SqlRepository::.ctor()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "RestaurantInfo.dll": {
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantInfo\\Restaurant.cs": {
+      "RestaurantInfo.Restaurant": {
+        "System.String RestaurantInfo.Restaurant::get_Name()": {
+          "Lines": {
+            "40": 2
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Restaurant::set_Name(System.String)": {
+          "Lines": {
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 0,
+            "47": 0,
+            "53": 1,
+            "54": 0,
+            "55": 0,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "61": 1
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 20,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 53,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 46,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.String RestaurantInfo.Restaurant::get_Address()": {
+          "Lines": {
+            "65": 3
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Restaurant::get_ZipCode()": {
+          "Lines": {
+            "66": 3
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Restaurant::get_City()": {
+          "Lines": {
+            "67": 3
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Restaurant::get_State()": {
+          "Lines": {
+            "68": 3
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<RestaurantInfo.Review> RestaurantInfo.Restaurant::get_Reviews()": {
+          "Lines": {
+            "69": 1
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Restaurant::ToString()": {
+          "Lines": {
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "75": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Restaurant::ToDataRow(System.Data.DataRow&)": {
+          "Lines": {
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Restaurant::.ctor()": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Restaurant::.ctor(System.String)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Restaurant::.ctor(System.Data.DataRow)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 26,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 58,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 90,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantInfo\\Review.cs": {
+      "RestaurantInfo.Review": {
+        "System.Double RestaurantInfo.Review::get_Average()": {
+          "Lines": {
+            "31": 2
+          },
+          "Branches": []
+        },
+        "System.Double RestaurantInfo.Review::get_Rating()": {
+          "Lines": {
+            "35": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Review::set_Rating(System.Double)": {
+          "Lines": {
+            "38": 1,
+            "39": 1,
+            "40": 0,
+            "41": 0,
+            "43": 1,
+            "44": 1
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 11,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 30,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 30,
+              "EndOffset": 44,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.String RestaurantInfo.Review::get_Note()": {
+          "Lines": {
+            "46": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Review::get_Name()": {
+          "Lines": {
+            "47": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Review::get_UserName()": {
+          "Lines": {
+            "48": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.Review::ToString()": {
+          "Lines": {
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Review::.ctor()": {
+          "Lines": {
+            "12": 3
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Review::.ctor(System.Int32)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.Review::.ctor(System.Double,System.String,System.String,System.String,System.Double)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantInfo\\User.cs": {
+      "RestaurantInfo.User": {
+        "System.String RestaurantInfo.User::get_Name()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.User::get_Email()": {
+          "Lines": {
+            "12": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.User::get_Password()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        },
+        "System.String RestaurantInfo.User::ToString()": {
+          "Lines": {
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.User::.ctor()": {
+          "Lines": {
+            "15": 3
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.User::.ctor(System.String)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantInfo.User::.ctor(System.String,System.String)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "RestaurantUI.dll": {
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 779,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 43,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 188,
+              "EndOffset": 195,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 179,
+              "EndOffset": 212,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 219,
+              "EndOffset": 226,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 170,
+              "EndOffset": 243,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 250,
+              "EndOffset": 252,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 259,
+              "EndOffset": 263,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 250,
+              "EndOffset": 277,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 284,
+              "EndOffset": 288,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 295,
+              "EndOffset": 302,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 270,
+              "EndOffset": 319,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 259,
+              "EndOffset": 341,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 188,
+              "EndOffset": 363,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 233,
+              "EndOffset": 385,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 284,
+              "EndOffset": 407,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 219,
+              "EndOffset": 429,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 309,
+              "EndOffset": 451,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 295,
+              "EndOffset": 473,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 202,
+              "EndOffset": 495,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 331,
+              "EndOffset": 517,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 353,
+              "EndOffset": 550,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 375,
+              "EndOffset": 584,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 397,
+              "EndOffset": 618,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 419,
+              "EndOffset": 640,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 441,
+              "EndOffset": 671,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 463,
+              "EndOffset": 690,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 485,
+              "EndOffset": 709,
+              "Path": 1,
+              "Ordinal": 39,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 507,
+              "EndOffset": 728,
+              "Path": 1,
+              "Ordinal": 41,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 202,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 233,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 270,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 309,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 331,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 353,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 375,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 397,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 419,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 441,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 463,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 485,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 38,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 507,
+              "EndOffset": 743,
+              "Path": 0,
+              "Ordinal": 40,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 779,
+              "EndOffset": 784,
+              "Path": 0,
+              "Ordinal": 42,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\AddRestaurantMenu.cs": {
+      "RestaurantUI.AddRestaurantMenu": {
+        "System.Void RestaurantUI.AddRestaurantMenu::Display()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.String RestaurantUI.AddRestaurantMenu::UserChoice()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "74": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 32,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 45,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 24,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 82,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 74,
+              "EndOffset": 99,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 105,
+              "EndOffset": 109,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 92,
+              "EndOffset": 122,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 82,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 115,
+              "EndOffset": 164,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 105,
+              "EndOffset": 185,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 45,
+              "EndOffset": 206,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 32,
+              "EndOffset": 227,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 58,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 133,
+              "EndOffset": 269,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 154,
+              "EndOffset": 292,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 175,
+              "EndOffset": 357,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 196,
+              "EndOffset": 427,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 217,
+              "EndOffset": 492,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 238,
+              "EndOffset": 557,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 259,
+              "EndOffset": 619,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 58,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 92,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 115,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 133,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 154,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 175,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 196,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 217,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 238,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 259,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestaurantUI.AddRestaurantMenu::.ctor()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantUI.AddRestaurantMenu::.cctor()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\AddReview.cs": {
+      "RestaurantUI.AddReview": {
+        "System.Void RestaurantUI.AddReview::Display()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.String RestaurantUI.AddReview::UserChoice()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 48,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 64,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 80,
+              "EndOffset": 85,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 22,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 35,
+              "EndOffset": 128,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 48,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 64,
+              "EndOffset": 266,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 80,
+              "EndOffset": 345,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 96,
+              "EndOffset": 411,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 96,
+              "EndOffset": 458,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestaurantUI.AddReview::.ctor()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantUI.AddReview::.cctor()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\AddUser.cs": {
+      "RestaurantUI.AddUser": {
+        "System.Void RestaurantUI.AddUser::Display()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.String RestaurantUI.AddUser::UserChoice()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 61,
+              "EndOffset": 66,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 22,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 35,
+              "EndOffset": 109,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 48,
+              "EndOffset": 173,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 61,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 77,
+              "EndOffset": 303,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 77,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestaurantUI.AddUser::.ctor()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void RestaurantUI.AddUser::.cctor()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\FilteredMenu.cs": {
+      "RestaurantUI.FilteredMenu": {
+        "System.Void RestaurantUI.FilteredMenu::Display()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.String RestaurantUI.FilteredMenu::UserChoice()": {
+          "Lines": {
+            "28": 0,
+            "30": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "93": 0
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 60,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 32,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 46,
+              "EndOffset": 99,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 210,
+              "EndOffset": 168,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 210,
+              "EndOffset": 212,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 60,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 373,
+              "EndOffset": 331,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 373,
+              "EndOffset": 375,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 77,
+              "EndOffset": 421,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 536,
+              "EndOffset": 494,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 536,
+              "EndOffset": 538,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 77,
+              "EndOffset": 581,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RestaurantUI.FilteredMenu::.ctor()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Revature\\dotnet-training-220328\\Daniel-Oszczapinski\\Project 0\\RestaurantApp\\RestaurantUI\\MainMenu.cs": {
+      "RestaurantUI.MainMenu": {
+        "System.Void RestaurantUI.MainMenu::Display()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.String RestaurantUI.MainMenu::UserChoice()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "52": 0,
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "62": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 40,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 32,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 69,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 24,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 98,
+              "EndOffset": 100,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 106,
+              "EndOffset": 110,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 98,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 129,
+              "EndOffset": 133,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 116,
+              "EndOffset": 146,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 106,
+              "EndOffset": 164,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 139,
+              "EndOffset": 182,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 129,
+              "EndOffset": 200,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 53,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 40,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 82,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 69,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 157,
+              "EndOffset": 278,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 175,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 193,
+              "EndOffset": 296,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 211,
+              "EndOffset": 305,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 229,
+              "EndOffset": 314,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 244,
+              "EndOffset": 323,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 259,
+              "EndOffset": 332,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 274,
+              "EndOffset": 341,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 53,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 82,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 116,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 139,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 157,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 175,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 193,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 211,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 229,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 244,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 259,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 274,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

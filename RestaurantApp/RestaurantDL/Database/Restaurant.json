@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Restaurant Name",
+    "Phone": 9994448888,
+    "Address": "Restaurant Address",
+    "Infoes": [
+      {
+        "Rating": 1
+      }
+    ]
+  },
+  {
+    "Name": "Domino\u0027s",
+    "Phone": 9994448888,
+    "Address": "Restaurant Address",
+    "Infoes": [
+      {
+        "Rating": 1
+      }
+    ]
+  }
+]
