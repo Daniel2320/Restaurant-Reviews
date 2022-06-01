@@ -29,7 +29,6 @@ To-do list:
 
 ## Getting Started
 
-> The code will only run if you create a database with the tables using the sql queries provided in the repository folder called SQLQueries. 
 > These commands work on Visual Studio Code
 
 * git clone https://github.com/Daniel2320/Restaurant-Reviews.git
