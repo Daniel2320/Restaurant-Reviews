@@ -39,6 +39,12 @@ To-do list:
 * All the `code` required to get started
 * Images of what it should look like
 
+## Images of Application
+
+<img src="Images/Swagger image 1.png" width="700"/>
+
+<img src="Images/Swagger-image-2.png" width="700"/>
+
 ## License
 
 This project uses the following license: <MIT License>.
