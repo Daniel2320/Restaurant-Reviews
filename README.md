@@ -33,11 +33,12 @@ To-do list:
 > These commands work on Visual Studio Code
 
 * git clone https://github.com/Daniel2320/Restaurant-Reviews.git
-* dotnet build
-* dotnet run
-
-* All the `code` required to get started
-* Images of what it should look like
+* To use the database create the SQL server table using the queries available in the SQLQueries folder
+* Once created you must add your connection string to a appsettings.json folder
+* To run the API you must run the application in Visual Studio
+* Open the sln file in the project with visual studio
+* The program can now run
+* Swagger will then run and you can go through the methods
 
 ## Images of Application
 
@@ -47,4 +48,4 @@ To-do list:
 
 ## License
 
-This project uses the following license: <MIT License>.
+This project uses the following license:MIT License.
