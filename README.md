@@ -32,7 +32,7 @@ To-do list:
 > These commands work on Visual Studio Code
 
 * git clone https://github.com/Daniel2320/Restaurant-Reviews.git
-* To use the database create the SQL server table using the queries available in the SQLQueries folder
+* To use the database create the SQL server table using the queries available in the SQLQueries folder that is inside the Images Folder
 * Once created you must add your connection string to a appsettings.json folder
 * To run the API you must run the application in Visual Studio
 * Open the sln file in the project with visual studio
